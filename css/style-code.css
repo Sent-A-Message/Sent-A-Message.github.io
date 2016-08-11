@@ -1,3 +1,31 @@
+/* CSS RESET START
+http://meyerweb.com/eric/tools/css/reset/
+Meyer is God
+*/
+
+/* v1.0 | 20080212 */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td { margin:0; padding:0; border:0; outline:0; font-size:100%; vertical-align:baseline; background:transparent; }
+body { line-height:1; }
+ol,ul { list-style:none; }
+blockquote,q { quotes:none; }
+blockquote:before,blockquote:after,q:before,q:after { content:''; content:none; }
+
+/* remember to define focus styles! */
+:focus { outline:0; }
+
+/* remember to highlight inserts somehow! */
+ins { text-decoration:none; }
+del { text-decoration:line-through; }
+
+/* tables still need 'cellspacing="0"' in the markup */
+table { border-collapse:collapse; border-spacing:0; }
+
+/* HTML5 Shizzle */
+article, aside, dialog, figure, footer, header, hgroup, menu, nav, section{ display: block; }
+/*CSS RESET END*/
+
+
+
 /*
 Name: Troy Fugate Stylesheet
 URI: http://www.backend.cc
@@ -7,7 +35,7 @@ Author: Troy Fugate
 Author URI: http://www.backend.cc
 */
 
-body { background:#000; color:#fff; font-family:Consolas, 'Lucida Console', Monaco, monospace; font-size:12px; line-height:1.3; padding: 15px; }
+body { background:#000; color:#fff; font-family:Consolas, 'Lucida Console', Monaco, monospace; font-size:1.15em; line-height:1.4; padding: 15px; }
 #container { width:960px; }
 a { text-decoration:none; }
 a:hover { padding-bottom:1px; border-bottom:1px solid; }
