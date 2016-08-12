@@ -57,3 +57,8 @@ code,pre { font-family:Consolas, 'Lucida Console', Monaco, monospace; }
 .page-curl { z-index:9999; background:url(../img/fold-sw.png); width:80px; height:80px; position:fixed; right:0; text-indent:-9999px; opacity:0.9; -webkit-animation-duration: 1.3s; -webkit-animation-iteration-count: 1; -webkit-animation-timing-function: ease-in; -webkit-animation-name: fade;}
 a.page-curl:hover { border:0; text-decoration::none; padding:0; opacity:1;}
 @-webkit-keyframes fade { from { opacity: 0; } to { opacity: 0.9; } }
+
+ /*Media Queries */
+/*@media (max-width: 479px) {
+    body {font-size: 46px;}
+}*/
