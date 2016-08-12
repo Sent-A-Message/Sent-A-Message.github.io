@@ -1,3 +1,4 @@
+# robots.txt for http://www.backend.cc/
 User-agent: *
 Disallow:
 Sitemap: http://backend.cc/sitemap.xml
