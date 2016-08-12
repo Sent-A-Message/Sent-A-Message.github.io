@@ -5,9 +5,12 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-
 <url>
   <loc>http://backend.cc/</loc>
-  <lastmod>2016-08-12T00:58:41+00:00</lastmod>
+  <lastmod>2016-08-12T03:17:42+00:00</lastmod>
+</url>
+<url>
+  <loc>http://backend.cc/robots.txt</loc>
+  <lastmod>2016-08-12T03:17:42+00:00</lastmod>
 </url>
 </urlset>
